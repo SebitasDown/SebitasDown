@@ -45,33 +45,93 @@ I'm interested in understanding how systems work internally, writing clear code,
 
 ## 🚀 Projects
 
-| Project | Description | Links |
-|---|---|---|
-| CoderBoost | CoderBoost es una plataforma diseñada para impulsar el crecimiento de desarrolladores, combinando formación práctica, proyectos reales y enfoque profesional para acelerar su camino en el mundo tech. | [Live](https://cb-front.vercel.app/) / [GitHub](https://github.com/SebitasDown/cb-front?tab=readme-ov-file) |
-| MicroServiceIA-BarberDev | Independent microservice designed to process and analyze images using artificial intelligence within a barber shop application. It exposes a REST API that allows image uploads, cloud storage, and communication with an AI provider for processing.
-
-The service is built with Spring Boot and follows a decoupled architecture, making it easy to integrate with other systems. It uses Cloudinary for image management and storage and connects to AI providers such as OpenAI or Gemini, depending on the configuration, enabling flexibility and scalability.
-
-The project focuses on proper separation of responsibilities, integration with external services, and the design of a production-ready microservice within a distributed environment. | [Live](https://barberdev-microservice.onrender.com/) / [GitHub](https://github.com/BarberIA-Dev/BarberDev-Microservice) |
-| LogiFlow | Frontend application designed to provide an intuitive and responsive interface for managing processes and workflows within a microservices-based system. It focuses on delivering a clear user experience while interacting with multiple backend services through secure APIs.
-
-The frontend is built using Angular, consuming REST APIs secured with OAuth 2.0 and JWT. It handles authentication flows, role-based access, and dynamic views based on user permissions, ensuring a scalable and maintainable user interface.
-
-The project emphasizes modular component design, state management, and clean separation of concerns, making the frontend suitable for real-world, production-ready applications. | [GitHub](https://github.com/xXCpFireXx/LogiFlow-Frontend) |
-
 ### CoderBoost
 
-<img src="https://imgur.com/a/w8cCwWu" alt="CoderBoost" width="500"/>
+<div align="center">
+  <img src="https://imgur.com/a/w8cCwWu" alt="CoderBoost" width="600"/>
+</div>
 
-**Technologies Used:** JavaScript, HTML, CSS, Express.js
+<p align="justify">
+CoderBoost es una plataforma diseñada para impulsar el crecimiento de desarrolladores, combinando formación práctica, proyectos reales y enfoque profesional para acelerar su camino en el mundo tech.
+</p>
+
+<div align="center">
+  
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://cb-front.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebitasDown/cb-front)
+
+</div>
+
+<div align="left">
+
+**Technologies Used:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+---
 
 ### MicroServiceIA-BarberDev
 
-**Technologies Used:** Java, Spring Boot, Cloudinary, OpenIA, Gemini
+<p align="justify">
+Independent microservice designed to process and analyze images using artificial intelligence within a barber shop application. It exposes a REST API that allows image uploads, cloud storage, and communication with an AI provider for processing.
+
+The service is built with Spring Boot and follows a decoupled architecture, making it easy to integrate with other systems. It uses Cloudinary for image management and storage and connects to AI providers such as OpenAI or Gemini, depending on the configuration, enabling flexibility and scalability.
+
+The project focuses on proper separation of responsibilities, integration with external services, and the design of a production-ready microservice within a distributed environment.
+</p>
+
+<div align="center">
+  
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://barberdev-microservice.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/BarberIA-Dev/BarberDev-Microservice)
+
+</div>
+
+<div align="left">
+
+**Technologies Used:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
 
 ### LogiFlow
 
-**Technologies Used:** Angular, TypeScript, HTML, Tailwind
+<p align="justify">
+Frontend application designed to provide an intuitive and responsive interface for managing processes and workflows within a microservices-based system. It focuses on delivering a clear user experience while interacting with multiple backend services through secure APIs.
+
+The frontend is built using Angular, consuming REST APIs secured with OAuth 2.0 and JWT. It handles authentication flows, role-based access, and dynamic views based on user permissions, ensuring a scalable and maintainable user interface.
+
+The project emphasizes modular component design, state management, and clean separation of concerns, making the frontend suitable for real-world, production-ready applications.
+</p>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/xXCpFireXx/LogiFlow-Frontend)
+
+</div>
+
+<div align="left">
+
+**Technologies Used:**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ## 📞 Contact & Links
 
