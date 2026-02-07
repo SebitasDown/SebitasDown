@@ -47,9 +47,7 @@ I'm interested in understanding how systems work internally, writing clear code,
 
 ### CoderBoost
 
-<div align="center">
-  <img src="https://imgur.com/a/w8cCwWu" alt="CoderBoost" width="600"/>
-</div>
+>
 
 <p align="justify">
 CoderBoost es una plataforma diseñada para impulsar el crecimiento de desarrolladores, combinando formación práctica, proyectos reales y enfoque profesional para acelerar su camino en el mundo tech.
