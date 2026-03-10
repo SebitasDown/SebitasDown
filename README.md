@@ -45,9 +45,35 @@ I'm interested in understanding how systems work internally, writing clear code,
 
 ## 🚀 Projects
 
-### CoderBoost
+### NutriLens
 
->
+<p align="justify">
+NutriLens es una plataforma avanzada de gestión nutricional impulsada por Inteligencia Artificial. Permite analizar el contenido nutricional de comidas a través de fotos y audio, generar recetas personalizadas y realizar un seguimiento diario de metas calóricas, integrando un asistente virtual para consultas de salud.
+</p>
+
+<div align="center">
+  
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://nutrilens-0x37.onrender.com/swagger-ui/index.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebitasDown/NutriLend)
+
+</div>
+
+<div align="left">
+
+**Technologies Used:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+</div>
+
+---
+
+### CoderBoost
 
 <p align="justify">
 CoderBoost es una plataforma diseñada para impulsar el crecimiento de desarrolladores, combinando formación práctica, proyectos reales y enfoque profesional para acelerar su camino en el mundo tech.
@@ -175,4 +201,3 @@ The project emphasizes modular component design, state management, and clean sep
 ![Profile Views](https://komarev.com/ghpvc/?username=SebitasDown&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
-
